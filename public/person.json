@@ -1,0 +1,16 @@
+{
+    "personalData": {
+      "name": "Richard Salles",
+      "age": 30,
+      "height": 1.69,
+      "gender": "male",
+      "goalWeight": 85
+    },
+    "weightHistory": [
+      {
+        "date": "2024-11",
+        "weight": 96.0
+      }
+    ]
+  }
+  
